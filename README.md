@@ -1,5 +1,10 @@
-# 資工營 爬蟲課程大禮包
+<div align="center">
 
+# NTUST CSIE CAMP | 資工營爬蟲禮包
+
+  <img width="200" src="ntust_so_hard.png" alt="logo" style="border-radius:1em">
+
+</div>
 ## 課程資源連結
 
 - [Slido](https://app.sli.do/event/1v7gck3jx9Kthkgb8JSPW1)
