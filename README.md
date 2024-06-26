@@ -14,7 +14,7 @@
 
 ## Lab
 - [Meow Meow Flag](https://attackmeua-1-d5034960.deta.app/)
-- [Fruit Shop](https://wusandwitch.github.io/20240705_ExampleSite)
+- [Fruit Shop](https://wusandwitch.github.io/20240705_ExampleSite/example.html)
 
 
 ## Resource
@@ -28,6 +28,6 @@
 pip install -r requirements.txt
 ```
 - 運行 Python
-```
+```sh
 python your_file_name.py
 ```
