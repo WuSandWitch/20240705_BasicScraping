@@ -5,11 +5,12 @@
   <img width="200" src="ntust_so_hard.png" alt="logo" style="border-radius:1em">
 
 </div>
+
 ## 課程資源連結
 
 - [Slido](https://app.sli.do/event/1v7gck3jx9Kthkgb8JSPW1)
 - [Github](https://github.com/WuSandWitch/20240705_BasicScraping)
-- [Slide]()
+- [Slide](https://slides.com/wusandwitch/copy-of)
 
 
 ## 工具連結
