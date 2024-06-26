@@ -12,6 +12,15 @@
 - [Burpsuite](https://portswigger.net/burp/communitydownload)
 - [Python3](https://www.python.org/downloads/release/python-3119/)
 
+## Lab
+- [Meow Meow Flag](https://attackmeua-1-d5034960.deta.app/)
+- [Fruit Shop](https://wusandwitch.github.io/20240705_ExampleSite)
+
+
+## Resource
+- [政府開放資料平台](https://data.gov.tw/)
+- [台北市即時交通](https://data.gov.tw/dataset/128476)
+
 
 ## 指令
 - 安裝 Python3 Library
