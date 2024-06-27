@@ -1,10 +1,14 @@
 import requests
+from icecream import ic
 
 url = 'https://tcgbusfs.blob.core.windows.net/dotapp/news.json'
 
 r = requests.get(url)
 
 data = r.json()
+
+ic(data)
+
 
 print('更新時間', data['updateTime'])
 print('新聞: ')
