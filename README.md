@@ -7,11 +7,14 @@
 </div>
 
 ## 課程資源連結
+- 上半 靜態爬蟲
+  - [Slido](https://app.sli.do/event/1v7gck3jx9Kthkgb8JSPW1)
+  - [Github](https://github.com/WuSandWitch/20240705_BasicScraping)
+  - [完整簡報連結](https://slides.com/wusandwitch/copy-of)
+  - [實況簡報](https://slides.com/d/1c6Gus0/live)
+- 下半 動態爬蟲
+  - [Resource repo](https://github.com/B11115049/DrissionPage_Resource)
 
-- [Slido](https://app.sli.do/event/1v7gck3jx9Kthkgb8JSPW1)
-- [Github](https://github.com/WuSandWitch/20240705_BasicScraping)
-- [完整簡報連結](https://slides.com/wusandwitch/copy-of)
-- [實況簡報](https://slides.com/d/1c6Gus0/live)
 
 
 ## 工具連結
