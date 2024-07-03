@@ -15,8 +15,6 @@
 - 下半 動態爬蟲
   - [Resource repo](https://github.com/B11115049/DrissionPage_Resource)
 
-
-
 ## 工具連結
 - [VScode](https://code.visualstudio.com/download)
 - [Burpsuite](https://portswigger.net/burp/communitydownload)
