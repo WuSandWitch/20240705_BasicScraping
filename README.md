@@ -23,7 +23,7 @@
 ## Lab
 - [Meow Meow Flag](https://attackmeua-1-d5034960.deta.app/)
 - [Fruit Shop](https://wusandwitch.github.io/20240705_ExampleSite/example.html)
-
+- [找到通關密語](https://wusandwitch.github.io/20240705_ExampleSite/secret.html)
 
 ## Resource
 - [政府開放資料平台](https://data.gov.tw/)
